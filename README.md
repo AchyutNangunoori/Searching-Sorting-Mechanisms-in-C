@@ -1,1 +1,1 @@
-# Searching_Soring_Mechanisms
+# Searching_Sorting_Mechanisms
